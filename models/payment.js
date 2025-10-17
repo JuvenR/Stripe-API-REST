@@ -9,4 +9,4 @@ const PaymentSchema = new mongoose.Schema({
 
 const PaymentSchemaModel = mongoose.model('Payment', PaymentSchema);
 
-export { PaymentSchemaModel }; 
+export { PaymentSchemaModel };

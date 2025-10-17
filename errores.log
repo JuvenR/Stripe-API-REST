@@ -8,3 +8,13 @@
 {"level":"error","message":"No se pudo acceder a: /process-payment/67cfda7095090000f6e1beb3 en el servidor."}
 {"level":"error","message":"No se pudo acceder a: /api/payments/payment/api/payments/process-payment/67cfdad795090000f6e1beb8 en el servidor."}
 {"level":"error","message":"No se pudo acceder a: /api/payments/67cfda7095090000f6e1beb3 en el servidor."}
+{"level":"error","message":"No se pudo acceder a: / en el servidor."}
+{"level":"error","message":"No se pudo acceder a: /favicon.ico en el servidor."}
+{"level":"error","message":"No se pudo acceder a: / en el servidor."}
+{"level":"error","message":"No se pudo acceder a: / en el servidor."}
+{"level":"error","message":"No se pudo acceder a: / en el servidor."}
+{"level":"error","message":"No se pudo acceder a: / en el servidor."}
+{"level":"error","message":"No se pudo acceder a: / en el servidor."}
+{"level":"error","message":"No se pudo acceder a: /index.html en el servidor."}
+{"level":"error","message":"No se pudo acceder a: /index.html en el servidor."}
+{"level":"error","message":"No se pudo acceder a: /index.html?paymentid=1 en el servidor."}
